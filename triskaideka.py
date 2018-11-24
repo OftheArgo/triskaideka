@@ -2,4 +2,4 @@
 
 # triskaideka  -13
 
-
+print(("\t13\n")*13)
