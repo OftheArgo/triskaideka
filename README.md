@@ -1,5 +1,3 @@
 # triskaideka
 
-An Argo project
-
-
+> An ___Argo___ project
