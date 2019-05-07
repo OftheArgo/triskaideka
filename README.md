@@ -1,5 +1,5 @@
-# triskaideka
+# triskaideka :: 13
 
-An Argo project
+An _Argo_ project
 
 
