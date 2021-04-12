@@ -1,3 +1,3 @@
-# triskaideka :: 13
+# TRISKAIDEKA :: 13
 
 > An ___Argo___ project
